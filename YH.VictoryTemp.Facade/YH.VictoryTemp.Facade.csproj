@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\YH.VictoryTemp.DataAccess\YH.VictoryTemp.DataAccess.csproj" />
+    <ProjectReference Include="..\YH.VictoryTemp.Entity\YH.VictoryTemp.Entity.csproj" />
+  </ItemGroup>
+
+</Project>
